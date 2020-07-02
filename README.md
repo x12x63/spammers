@@ -1,4 +1,3 @@
-# Spamcı firmalar
-Toplu halde kolayca engelleyebilmeniz için spamcıların tam listesini oluşturuyoruz. Şimdilik aşağıdaki firmaların ip blokları ekli. 
+# Spam trafik tespit edilen IP aralıkları
 
-
+Toplu halde kolayca engelleyebilmeniz için ağımıza gelen spam trafiklerin listesini çıkarttım. Siz de kendi ağınızda tespit ettiğiniz ip adreslerini ekleyebilirsiniz. Böylece toplu halde bir liste oluşturabiliriz.
